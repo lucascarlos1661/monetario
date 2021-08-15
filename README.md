@@ -1,0 +1,1 @@
+Nesse projeto desenvolvi um app para conversão de moedas, usando uma api que fornece o valor atual da moeda selecionada pelo usuário no app e realizando a conversão em tempo real. As ferramentas utilizadas foram o Android Studio e a linguagem Kotlin
